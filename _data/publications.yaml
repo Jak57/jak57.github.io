@@ -1,136 +1,139 @@
 papers:
-  - title: "Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models"
+  # - title: "Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models"
+    # year: "2024"
+  #   authors: "<b><u>Seungone Kim</u></b>*, Juyoung Suk*, Shayne Longpre, Bill Yuchen Lin, Jamin Shin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+  #   venue: "Preprint Under Review"
+  #   paper_pdf: "https://arxiv.org/abs/2405.01535"
+  #   code: "https://github.com/prometheus-eval/prometheus-eval"
+  #   selected: y
+  
+  # - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
+  #   authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+  #   venue: "Preprint Under Review"
+  #   paper_pdf: "https://arxiv.org/abs/2406.05761"
+  #   code: "https://github.com/prometheus-eval/prometheus-eval/tree/main/BiGGen-Bench"
+  #   selected: y
+
+  # - title: "Consent in Crisis: The Rapid Decline of the AI Data Commons"
+  #   authors: "Shayne Longpre, Robert Mahari, Ariel Lee, Campbell Lund, Hamidah Oderinwale, William Brannon, Nayan Saxena, Naana Obeng-Marnu, Tobin South, Cole Hunter, Kevin Klyman, Christopher Klamm, Hailey Schoelkopf, Nikhil Singh, Manuel Cherep, Ahmad Anis, An Dinh, Caroline Chitongo, Da Yin, Damien Sileo, Deividas Mataciunas, Diganta Misra, Emad Alghamdi, Enrico Shippole, Jianguo Zhang, Joanna Materzynska, Kun Qian, Kush Tiwary, Lester James Validad Miranda, Manan Dey, Minnie Liang, Mohammed Hamdy, Niklas Muennighoff, Seonghyeon Ye, <b><u>Seungone Kim</u></b>, Shrestha Mohanty, Vipul Gupta, Vivek Sharma, Vu Minh Chien, Xuhui Zhou, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland"
+  #   venue: "Preprint Under Review"
+  #   paper_pdf: "https://arxiv.org/abs/2407.14933"
+  #   code: "https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection"
+  #   selected: y
+
+  # - title: "Can Language Models Evaluate Human Written Text? Case Study on Korean Student Writing for Education"
+  #   authors: "Seungyoon Kim, <b><u>Seungone Kim</u></b>"
+  #   venue: "Preprint Under Review"
+  #   paper_pdf: "https://www.arxiv.org/abs/2407.17022"
+  #   code: "https://github.com/seungyoon1/llm-as-a-judge-human-eval/tree/main"
+  #   selected: y
+
+  # - title: "Aligning to Thousands of Preferences via System Prompt Generalization"
+  #   authors: "Seongyun Lee*, Sue Hyun Park*, <b><u>Seungone Kim</u></b>, Minjoon Seo"
+  #   venue: "Preprint Under Review & ACL 2024 ConvAI Workshop (Oral)"
+  #   paper_pdf: "https://arxiv.org/abs/2405.17977"
+  #   code: "https://github.com/kaistAI/Janus"
+  #   selected: y
+
+  # - title: "KMMLU: Measuring Massive Multitask Language Understanding in Korean"
+  #   authors: "Guijin Son, Hanwool Lee, Sungdong Kim, <b><u>Seungone Kim</u></b>, Niklas Muennighoff, Taekyoon Choi, Cheonbok Park, Kang Min Yoo, Stella Biderman"
+  #   venue: "Preprint Under Review"
+  #   paper_pdf: "https://arxiv.org/abs/2402.11548"
+  #   code: "https://github.com/EleutherAI/lm-evaluation-harness/tree/4eba9cf390e2bcee120c3612119fd9b13407f290/lm_eval/tasks/kmmlu"
+  #   selected: y
+
+  # - title: "Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards"
+  #   authors: "Hyeonbin Hwang, Doyoung Kim, <b><u>Seungone Kim</u></b>, Seonghyeon Ye, Minjoon Seo"
+  #   venue: "Preprint Under Review & ACL 2024 NLRSE Workshop (Oral)"
+  #   paper_pdf: "https://arxiv.org/abs/2404.10346"
+  #   code: "https://github.com/hbin0701/Self-Explore"
+  #   selected: y
+
+  # - title: "Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models"
+  #   authors: "Hyungjoo Chae, Yeonghyeon Kim, <b><u>Seungone Kim</u></b>, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo"
+  #   venue: "Preprint Under Review & ACL 2024 NLRSE Workshop"
+  #   paper_pdf: "https://arxiv.org/abs/2404.02575"
+  #   code: "https://github.com/kyle8581/LanguageModelsasCompilers"
+  #   selected: y
+
+  #  year: "2024"
+
+  - title: "Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer"
     year: "2024"
-    authors: "<b><u>Seungone Kim</u></b>*, Juyoung Suk*, Shayne Longpre, Bill Yuchen Lin, Jamin Shin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2405.01535"
-    code: "https://github.com/prometheus-eval/prometheus-eval"
-    selected: y
-  
-  - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
-    authors: "<b><u>Seungone Kim</u></b>, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2406.05761"
-    code: "https://github.com/prometheus-eval/prometheus-eval/tree/main/BiGGen-Bench"
+    authors: "Md Fuadul Islam*, <b><u>Jakir Hasan</u></b>*, M. Shahidur Rahman"
+    venue: "International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)"
+    paper_pdf: "https://ieeexplore.ieee.org/document/10534465"
+    code: 
     selected: y
 
-  - title: "Consent in Crisis: The Rapid Decline of the AI Data Commons"
-    authors: "Shayne Longpre, Robert Mahari, Ariel Lee, Campbell Lund, Hamidah Oderinwale, William Brannon, Nayan Saxena, Naana Obeng-Marnu, Tobin South, Cole Hunter, Kevin Klyman, Christopher Klamm, Hailey Schoelkopf, Nikhil Singh, Manuel Cherep, Ahmad Anis, An Dinh, Caroline Chitongo, Da Yin, Damien Sileo, Deividas Mataciunas, Diganta Misra, Emad Alghamdi, Enrico Shippole, Jianguo Zhang, Joanna Materzynska, Kun Qian, Kush Tiwary, Lester James Validad Miranda, Manan Dey, Minnie Liang, Mohammed Hamdy, Niklas Muennighoff, Seonghyeon Ye, <b><u>Seungone Kim</u></b>, Shrestha Mohanty, Vipul Gupta, Vivek Sharma, Vu Minh Chien, Xuhui Zhou, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2407.14933"
-    code: "https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection"
+  # - title: "LangBridge: Multilingual Reasoning without Multilingual Supervision"
+  #   authors: "Dongkeun Yoon, Joel Jang, Sungdong Kim, <b><u>Seungone Kim</u></b>, Sheikh Shafayat, Minjoon Seo"
+  #   venue: "ACL 2024 & ICLR 2024 ME-FoMo Workshop & ACL 2024 KnowledgeNLP Workshop"
+  #   paper_pdf: "https://arxiv.org/abs/2401.10695"
+  #   code: "https://github.com/kaistAI/LangBridge"
+  #   selected: y
+
+  # - title: "Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?"
+  #   authors: "Guijin Son*, Sangwon Baek, Sangdae Nam, Ilgyun Jeong, <b><u>Seungone Kim</u></b>*"
+  #   venue: "ACL 2024 & ICLR 2024 ME-FoMo Workshop & ACL 2024 SpLU-RoboNLP Workshop (Oral)"
+  #   paper_pdf: "https://arxiv.org/abs/2402.11597"
+  #   code: "https://github.com/guijinSON/MTI-Bench"
+  #   selected: y
+
+  - title: "Improving Bengali ASR for Regional Dialects with IndicWav2Vec: A Competition Approach"
+    authors: "<b><u>Jakir Hasan</u></b>*, Md Ataullha Saim*, Radeen Mostafa"
+    venue: "Preprint"
+    paper_pdf: "https://www.researchgate.net/publication/381922998_Improving_Bengali_ASR_for_Regional_Dialects_with_IndicWav2Vec_A_Competition_Approach?channel=doi&linkId=6684cd9cf3b61c4e2ca938b4&showFulltext=true"
+    code: "https://www.kaggle.com/competitions/ben10/discussion/498298"
     selected: y
 
-  - title: "Can Language Models Evaluate Human Written Text? Case Study on Korean Student Writing for Education"
-    authors: "Seungyoon Kim, <b><u>Seungone Kim</u></b>"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://www.arxiv.org/abs/2407.17022"
-    code: "https://github.com/seungyoon1/llm-as-a-judge-human-eval/tree/main"
-    selected: y
+  # - title: "Prometheus: Inducing Fine-grained Evaluation Capability in Language Models"
+  #   authors: "<b><u>Seungone Kim</u></b>*, Jamin Shin*, Yejin Cho*, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo"
+  #   venue: "ICLR 2024 & NeurIPS 2023 Instruction Workshop"
+  #   paper_pdf: "https://arxiv.org/abs/2310.08491"
+  #   code: "https://github.com/kaistAI/Prometheus"
+  #   selected: y
 
-  - title: "Aligning to Thousands of Preferences via System Prompt Generalization"
-    authors: "Seongyun Lee*, Sue Hyun Park*, <b><u>Seungone Kim</u></b>, Minjoon Seo"
-    venue: "Preprint Under Review & ACL 2024 ConvAI Workshop (Oral)"
-    paper_pdf: "https://arxiv.org/abs/2405.17977"
-    code: "https://github.com/kaistAI/Janus"
-    selected: y
+  # - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
+  #   authors: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, <b><u>Seungone Kim</u></b>, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo"
+  #   venue: "ICLR 2024 & NeurIPS 2023 Instruction Workshop (Oral) & ICLR 2024 LLM Agents Workshop & ICLR 2024 Gen4DM Workshop"
+  #   paper_pdf: "https://arxiv.org/abs/2307.10928"
+  #   code: "https://github.com/kaistAI/FLASK"
+  #   selected: y
 
-  - title: "KMMLU: Measuring Massive Multitask Language Understanding in Korean"
-    authors: "Guijin Son, Hanwool Lee, Sungdong Kim, <b><u>Seungone Kim</u></b>, Niklas Muennighoff, Taekyoon Choi, Cheonbok Park, Kang Min Yoo, Stella Biderman"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2402.11548"
-    code: "https://github.com/EleutherAI/lm-evaluation-harness/tree/4eba9cf390e2bcee120c3612119fd9b13407f290/lm_eval/tasks/kmmlu"
-    selected: y
-
-  - title: "Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards"
-    authors: "Hyeonbin Hwang, Doyoung Kim, <b><u>Seungone Kim</u></b>, Seonghyeon Ye, Minjoon Seo"
-    venue: "Preprint Under Review & ACL 2024 NLRSE Workshop (Oral)"
-    paper_pdf: "https://arxiv.org/abs/2404.10346"
-    code: "https://github.com/hbin0701/Self-Explore"
-    selected: y
-
-  - title: "Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models"
-    authors: "Hyungjoo Chae, Yeonghyeon Kim, <b><u>Seungone Kim</u></b>, Kai Tzu-iunn Ong, Beong-woo Kwak, Moohyeon Kim, Seonghwan Kim, Taeyoon Kwon, Jiwan Chung, Youngjae Yu, Jinyoung Yeo"
-    venue: "Preprint Under Review & ACL 2024 NLRSE Workshop"
-    paper_pdf: "https://arxiv.org/abs/2404.02575"
-    code: "https://github.com/kyle8581/LanguageModelsasCompilers"
-    selected: y
-
-  - title: "Prometheus-Vision: Vision-Language Model as a Judge for Fine-grained Evaluation"
-    authors: "Seongyun Lee*, <b><u>Seungone Kim</u></b>*, Sue Hyun Park, Geewook Kim, Minjoon Seo"
-    venue: "ACL 2024 Findings & ICLR 2024 ME-FoMo Workshop & ACL 2024 ALVR Workshop"
-    paper_pdf: "https://arxiv.org/abs/2401.06591"
-    code: "https://github.com/kaistAI/prometheus-vision"
-    selected: y
-
-  - title: "LangBridge: Multilingual Reasoning without Multilingual Supervision"
-    authors: "Dongkeun Yoon, Joel Jang, Sungdong Kim, <b><u>Seungone Kim</u></b>, Sheikh Shafayat, Minjoon Seo"
-    venue: "ACL 2024 & ICLR 2024 ME-FoMo Workshop & ACL 2024 KnowledgeNLP Workshop"
-    paper_pdf: "https://arxiv.org/abs/2401.10695"
-    code: "https://github.com/kaistAI/LangBridge"
-    selected: y
-
-  - title: "Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?"
-    authors: "Guijin Son*, Sangwon Baek, Sangdae Nam, Ilgyun Jeong, <b><u>Seungone Kim</u></b>*"
-    venue: "ACL 2024 & ICLR 2024 ME-FoMo Workshop & ACL 2024 SpLU-RoboNLP Workshop (Oral)"
-    paper_pdf: "https://arxiv.org/abs/2402.11597"
-    code: "https://github.com/guijinSON/MTI-Bench"
-    selected: y
-
-  - title: "Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging"
-    authors: "Joel Jang, <b><u>Seungone Kim</u></b>, Bill Yuchen Lin, Yizhong Wang, Jack Hessel, Luke Zettlemoyer, Hannaneh Hajishirzi, Yejin Choi, Prithviraj Ammanabrolu"
-    venue: "ArXiv Preprint"
-    paper_pdf: "https://arxiv.org/abs/2310.11564"
-    code: "https://github.com/joeljang/RLPHF"
-    selected: y
-
-  - title: "Prometheus: Inducing Fine-grained Evaluation Capability in Language Models"
-    authors: "<b><u>Seungone Kim</u></b>*, Jamin Shin*, Yejin Cho*, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo"
-    venue: "ICLR 2024 & NeurIPS 2023 Instruction Workshop"
-    paper_pdf: "https://arxiv.org/abs/2310.08491"
-    code: "https://github.com/kaistAI/Prometheus"
-    selected: y
-
-  - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
-    authors: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, <b><u>Seungone Kim</u></b>, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo"
-    venue: "ICLR 2024 & NeurIPS 2023 Instruction Workshop (Oral) & ICLR 2024 LLM Agents Workshop & ICLR 2024 Gen4DM Workshop"
-    paper_pdf: "https://arxiv.org/abs/2307.10928"
-    code: "https://github.com/kaistAI/FLASK"
-    selected: y
-
-  - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-tuning"
+  - title: "Character-Level Bangla Text-to-IPA Transcription Using Transformer Architecture with Sequence Alignment"
     year: "2023"
-    authors: "<b><u>Seungone Kim</u></b>*, Se June Joo*, Doyoung Kim, Joel Jang, Seonghyeon Ye, Jamin Shin, Minjoon Seo"
-    venue: "EMNLP 2023"
-    paper_pdf: "https://arxiv.org/abs/2305.14045"
-    code: "https://github.com/kaist-lklab/CoT-Collection"
+    authors: "<b><u>Jakir Hasan</u></b>*, Shrestha Datta*, Ameya Debnath"
+    venue: "ArXiv Preprint"
+    paper_pdf: "https://arxiv.org/abs/2311.03792"
+    code: "https://www.kaggle.com/competitions/dataverse_2023/discussion/453420"
     selected: y
 
-  - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
-    authors: "Joel Jang, <b><u>Seungone Kim</u></b>, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "ICML 2023"
-    paper_pdf: "https://arxiv.org/abs/2302.03202"
-    code: "https://github.com/joeljang/ELM"
-    selected: y
+  # - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
+  #   authors: "Joel Jang, <b><u>Seungone Kim</u></b>, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+  #   venue: "ICML 2023"
+  #   paper_pdf: "https://arxiv.org/abs/2302.03202"
+  #   code: "https://github.com/joeljang/ELM"
+  #   selected: y
   
-  - title: "CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification"
-    authors: "<b><u>Seungone Kim</u></b>, Se June Joo, Yul Jang, Hyungjoo Chae, Jinyoung Yeo"
-    venue: "EACL 2023 Demo Track"
-    paper_pdf: "https://arxiv.org/abs/2303.03628"
-    code: "https://github.com/SeungoneKim/CoTEVer"
-    selected: y
+  # - title: "CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification"
+  #   authors: "<b><u>Seungone Kim</u></b>, Se June Joo, Yul Jang, Hyungjoo Chae, Jinyoung Yeo"
+  #   venue: "EACL 2023 Demo Track"
+  #   paper_pdf: "https://arxiv.org/abs/2303.03628"
+  #   code: "https://github.com/SeungoneKim/CoTEVer"
+  #   selected: y
 
-  - title: "Mind the Gap! Injecting Commonsense Knowledge for Abstractive Dialogue Summarization"
-    year: "2022"
-    authors: "<b><u>Seungone Kim</u></b>*, Se June Joo*, Hyungjoo Chae*, Chaehyeong Kim, Seung-won Hwang, Jinyoung Yeo"
-    venue: "COLING 2022"
-    paper_pdf: "https://arxiv.org/abs/2209.00930"
-    code: "https://github.com/SeungoneKim/SICK_Summarization"
-    selected: y
+  # - title: "Mind the Gap! Injecting Commonsense Knowledge for Abstractive Dialogue Summarization"
+  #   year: "2022"
+  #   authors: "<b><u>Seungone Kim</u></b>*, Se June Joo*, Hyungjoo Chae*, Chaehyeong Kim, Seung-won Hwang, Jinyoung Yeo"
+  #   venue: "COLING 2022"
+  #   paper_pdf: "https://arxiv.org/abs/2209.00930"
+  #   code: "https://github.com/SeungoneKim/SICK_Summarization"
+  #   selected: y
 
-  - title: "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding"
-    authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Se june Joo, Woojin Cho, JeongEun Nah"
-    venue: "Annual Conference of Korean Information Processing Society 2021"
-    paper_pdf: "http://manuscriptlink-society-file.s3.amazonaws.com/kips/conference/ack2021/abs/KIPS_C2021B0211.pdf"
-    code: "https://github.com/SeungoneKim/SGMLP"
-    selected: n
+  # - title: "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding"
+  #   authors: "Guijin Son, <b><u>Seungone Kim</u></b>, Se june Joo, Woojin Cho, JeongEun Nah"
+  #   venue: "Annual Conference of Korean Information Processing Society 2021"
+  #   paper_pdf: "http://manuscriptlink-society-file.s3.amazonaws.com/kips/conference/ack2021/abs/KIPS_C2021B0211.pdf"
+  #   code: "https://github.com/SeungoneKim/SGMLP"
+  #   selected: n
