@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Technical Interview Experience at REVE Systems 2024"
+title: "Technical Interview Experience at REVE Systems"
 date: 2025-06-28
 categories: blog
 ---
@@ -41,8 +41,6 @@ Reverse a given singly linked list.
 
 At first, I used extra memory to store the reversed array.
 
-<details><summary>Show Answer</summary>
-
 ```cpp
 class Solution {
 public:
@@ -69,11 +67,9 @@ public:
     }
 };
 ```
-</details>
 
 They told me not to use extra memory. So, I performed an in-place reversal of the linked list.
 
-<details><summary>Show Answer</summary>
 
 ```cpp
 class Solution {
@@ -93,11 +89,7 @@ public:
     }
 };
 ```
-</details>
 
-</article>
-
-<article>
   
 Given a sequence `1`, `1`, `2`, `3`, `5`, `8`, `13`, `21`..., where the indices start at `1`. For any given index, find the value of the sequence. For example, when the input is `3`, the output is `2`, and when the input is `6`, the output is `8`.
   
@@ -105,7 +97,6 @@ Given a sequence `1`, `1`, `2`, `3`, `5`, `8`, `13`, `21`..., where the indices 
 
 At first, I used an array for storing the calculated results of the intermediate steps and built the array going forward.
 
-<details><summary>Show Answer</summary>
 
 ```cpp
 int fib(int n){
@@ -120,11 +111,9 @@ int fib(int n){
   	return arr[n];
  }
 ```
-</details>
 
 As I used an array to store the intermediate results, extra memory usage was involved. They told me not to use an array. Then I used three variables and performed swapping values as needed.
 
-<details><summary>Show Answer</summary>
 
 ```cpp
 int fib(int n){
@@ -141,11 +130,9 @@ int fib(int n){
 	return c;
  }
 ```
-</details>
 
 They asked me to solve this problem using recursion. When implementing the recursion-based one, I first implemented the unoptimized version and later used an array for storing the intermediate values. After that, they asked me about the time and space complexities of the different approaches.
 
-<details><summary>Show Answer</summary>
 
 ```cpp
  int fib(int n){
@@ -157,11 +144,6 @@ They asked me to solve this problem using recursion. When implementing the recur
 	    return (fib(n-1) + fib(n-2));
  }
 ```
-</details>
-
-</article>
-
-<article>
 	
 Given a weighted binary tree, you have to find whether a target sum can be achieved by traversing from the root to the leaf and summing the values on the intermediate nodes.
   
@@ -169,7 +151,6 @@ Given a weighted binary tree, you have to find whether a target sum can be achie
 
 I described how this problem can be solved using BFS and provided the solution.
 
-<details><summary>Show Answer</summary>
 
 ```cpp
 class Solution {
@@ -209,29 +190,18 @@ public:
     }
 };
 ```
-</details>
 
-</article>
-
-<article>
 	
 Why are getters and setters used in Java?
 
-</article>
 
-<article>
 	
 Describe the Singleton design pattern and write the code in Java.
 
-</article>
 
-<article>
 	
 What are REST APIs? Tell about the HTTP verbs and the differences between PUT and POST in REST API.
 
-</article>
-
-<article>
 	
 Given a large input string without `\n` present. Output the string of sentences where we will input the max letter count in a line. output the modified string, so if line breaks occur in the middle of a word, place it after a newline.
 
@@ -243,97 +213,58 @@ systems is<br>
 a software<br>
 company<br>
 
-</article>
 
 ## Technical Round II Questions
 
-<article>
 
 What are the four pillars of OOP? 
 
-</article>
 
-<article>
 
 Explain about `Encapsulation`, `Abstraction`, `Inheritance`, and `Polymorphism` with real-world examples.
 
-</article>
 
-
-<article>
 
 Please tell us about Java Socket Programming.
 
-</article>
 
-
-<article>
 
 What models are used in the Software development life cycle? Please tell us about the waterfall model.
 
-</article>
-
-<article>
 
 Please explain the Agile model in software engineering.
 
-</article>
-
-<article>
 
 What are the SOLID principles?
 
-</article>
-
-<article>
 
 What are the differences between the TCP and UDP protocols?
 
-</article>
-
-<article>
 
 Given two input strings, you have to find whether the second string is present in the first string. Please explain all the approaches for solving this problem. 
 
-</article>
 
-<article>
 
 Do you have a plan for higher studies? When will you go abroad for higher studies?
 
-</article>
 
 
 ## CTO Round Questions
 
-<article>
 
 Please tell us about yourself.
 
-</article>
-
-<article>
 
 Why do you want to join a software company instead of joining a university as a faculty member?
 
-</article>
-
-<article>
 
 Write the code of the Singleton pattern and explain.
 
-</article>
-
-<article>
 
 Explain the four pillars of OOP with examples.
 
-</article>
-
-<article>
 
 Actually they asked all the questions from the previous rounds where I made mistakes.
 
-</article>
 
 
