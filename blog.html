@@ -1,0 +1,14 @@
+---
+layout: default
+title: Blog
+---
+
+<h1>Blog Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="_posts/2025-06-28-technical-interview-experience-at-reve-systems.md">{{ post.title }}</a> - <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+    </li>
+  {% endfor %}
+</ul>
