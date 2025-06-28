@@ -1,4 +1,4 @@
-## Instructions for setting up my personal website locally
+## Instructions for setting up my website locally
 * ``cd /mnt/e/jakir/personal_website``
 * ``git clone https://github.com/Jak57/jak57.github.io.git``
 * ``cd jak57.github.io``
@@ -11,5 +11,6 @@
 * ``gem install jekyll bundler``
 * ``jekyll -v``
 * ``jekyll serve``
+
+## GitHub Access token
 * ``https://github.com/settings/personal-access-tokens``
-* Paste the access token
