@@ -32,12 +32,12 @@ categories: blog
 3. **Technical Round II**: This round is also conducted via Skype, and two interviewers (project managers) were there. They asked in-depth questions on object-oriented programming. Other           topics included - Java socket programming, computer networking, focusing on TCP and UDP protocols, software engineering and design patterns, SOLID principles, string matching algorithms      (Naive, KMP).
 4. **CTO Round**: This was an onsite round where the CTO and head of the Mobile app development team were present. They gave pen and paper to write the answers to their questions and asked many        questions where I struggled in the previous rounds.
 
+
 ## Technical Round I Questions
-<article>
 	
 Reverse a given singly linked list.
   
-[**💻 Submit Code**](https://leetcode.com/problems/reverse-linked-list/description/)
+[Submit Code](https://leetcode.com/problems/reverse-linked-list/description/)
 
 At first, I used extra memory to store the reversed array.
 
@@ -93,7 +93,7 @@ public:
   
 Given a sequence `1`, `1`, `2`, `3`, `5`, `8`, `13`, `21`..., where the indices start at `1`. For any given index, find the value of the sequence. For example, when the input is `3`, the output is `2`, and when the input is `6`, the output is `8`.
   
-[**💻 Submit Code**](https://leetcode.com/problems/fibonacci-number/description/)
+[Submit Code](https://leetcode.com/problems/fibonacci-number/description/)
 
 At first, I used an array for storing the calculated results of the intermediate steps and built the array going forward.
 
@@ -147,7 +147,7 @@ They asked me to solve this problem using recursion. When implementing the recur
 	
 Given a weighted binary tree, you have to find whether a target sum can be achieved by traversing from the root to the leaf and summing the values on the intermediate nodes.
   
-[**💻 Submit Code**](https://leetcode.com/problems/path-sum/description/)
+[Submit Code](https://leetcode.com/problems/path-sum/description/)
 
 I described how this problem can be solved using BFS and provided the solution.
 
