@@ -58,12 +58,41 @@ papers:
 
   #  year: "2024"
 
-  - title: "Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer"
+  - title: "BanglaTalk: Towards Real-Time Speech Assistance for Bengali Regional Dialects"
+    year: "2025"
+    authors: "<b><u>Jakir Hasan</u></b>*, Shubhashis Roy Dipta"
+    venue: "ArXiv Preprint"
+    paper_pdf: "https://arxiv.org/abs/2510.06188"
+    code: "https://github.com/Jak57/BanglaTalk"
+    selected: y
+
+
+  - title: "BanglaLem: A Transformer-based Bangla Lemmatizer with an Enhanced Dataset"
+    # year: "2024"
+    authors: "Md Fuadul Islam*, <b><u>Jakir Hasan</u></b>*, Md Ashikul Islam, Prato Dewan, M. Shahidur Rahman"
+    venue: "Systems and Soft Computing, Elsevier Journal"
+    paper_pdf: "https://doi.org/10.1016/j.sasc.2025.200244"
+    code: 
+    dataset: https://www.kaggle.com/datasets/jakir57/bangla-lemmatization-dataset-banglalem
+    selected: y
+
+
+  - title: "G-RAG: Knowledge Expansion in Material Science"
     year: "2024"
+    authors: "Radeen Mostafa, Mirza Nihal Baig, Mashaekh Tausif Ehsan, <b><u>Jakir Hasan</u></b>"
+    venue: "Muslims in ML Workshop at NeurIPS’24"
+    paper_pdf: "https://arxiv.org/abs/2411.14592"
+    code: "https://github.com/RadeenXALNW/G-RAG_1.0"
+    selected: y
+
+
+  - title: "Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer"
+    # year: "2024"
     authors: "Md Fuadul Islam*, <b><u>Jakir Hasan</u></b>*, M. Shahidur Rahman"
     venue: "International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)"
     paper_pdf: "https://ieeexplore.ieee.org/document/10534465"
     code: 
+    dataset: https://www.kaggle.com/datasets/jakir57/bangla-currency-dataset
     selected: y
 
   # - title: "LangBridge: Multilingual Reasoning without Multilingual Supervision"
