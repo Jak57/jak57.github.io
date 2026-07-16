@@ -1,11 +1,18 @@
 name: "Jakir Hasan"
-title: "Software Engineer at REVE Systems"
+#
+# title: "Software Engineer at REVE Systems"
+# title: "Adjunct Lecturer at Leading University"
+# title: "Lecturer at Leading University"
+title: "Lecturer | Software Engineer | NLP Researcher"
+#
 email: "jakirhasan718@gmail.com"
-profile_pic: "/assets/profile-pics/profile_jakir.jpg"
+# profile_pic: "/assets/profile-pics/profile_jakir.jpg"
+profile_pic: "/assets/profile-pics/jakir_hasan.jpg"
+github: "https://github.com/Jak57"
 twitter: "https://x.com/JakirHa46040612"
 cv: "assets/cv/CV_jakir.pdf"
 semantic_scholar: "https://www.researchgate.net/profile/Jakir-Hasan-2"
 google_scholar: "https://scholar.google.com/citations?user=dxdi2gkAAAAJ&hl=en"
 linkedin: "https://www.linkedin.com/in/jakir57/"
-github: "https://github.com/Jak57"
+# github: "https://github.com/Jak57"
 google_analystics_tracking_id: 'G-WQFJ1LRG22'
